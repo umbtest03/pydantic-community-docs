@@ -10,6 +10,7 @@
   "stars": 28090,
   "adapter": "sourcey",
   "sourcey_version": "3.6.3",
+  "runx_cli_version": "0.6.13",
   "command": "npx sourcey build",
   "config_file": "sourcey.config.ts",
   "summary": "Generated 18-page community documentation for Pydantic v2.13.4 (Python ecosystem) using Sourcey 3.6.3, covering 22+ API concepts including BaseModel, validators, serialization, fields, config, generics, JSON Schema, type adapter, error handling, and aliases. Deployed at umbtest03.github.io/pydantic-community-docs/ on GitHub Pages with full-text search, navigation, dark mode, OG tags, and code examples with copy buttons.",
