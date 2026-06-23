@@ -16,10 +16,10 @@ Generated community documentation for **Pydantic v2.13.4** using Sourcey 3.6.3. 
 
 ## Deployment
 
-- **URL:** https://codeboost-tr.github.io/pydantic-community-docs/
+- **URL:** https://umbtest03.github.io/pydantic-community-docs/
 - **Platform:** GitHub Pages (gh-pages branch)
-- **Domain:** codeboost-tr.github.io (durable organization home)
-- **Source:** https://github.com/codeboost-tr/pydantic-community-docs
+- **Domain:** umbtest03.github.io (durable organization home)
+- **Source:** https://github.com/umbtest03/pydantic-community-docs
 
 ## Ecosystem Differentiation
 

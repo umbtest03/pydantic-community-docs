@@ -46,9 +46,9 @@
   },
   "deployment": {
     "platform": "GitHub Pages",
-    "url": "https://codeboost-tr.github.io/pydantic-community-docs/",
+    "url": "https://umbtest03.github.io/pydantic-community-docs/",
     "branch": "gh-pages",
-    "repo": "https://github.com/codeboost-tr/pydantic-community-docs"
+    "repo": "https://github.com/umbtest03/pydantic-community-docs"
   },
   "gaps": [
     "Performance benchmarks and comparison with other validation libraries",
